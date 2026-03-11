@@ -2,7 +2,8 @@
   "name": "KnowScroll — Storia",
   "short_name": "KnowScroll",
   "description": "Rivoluzione Francese e Età Napoleonica in formato reel",
-  "start_url": "/RFN-Scroll/"
+  "start_url": "/RFN-Scroll/index.html",
+  "scope": "/RFN-Scroll/"
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
