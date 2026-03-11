@@ -1,7 +1,7 @@
 const CACHE = 'knowscroll-v1';
 const FILES = [
   '/',
-  '/index.html',
+  'index.html',
   '/manifest.json',
   '/icon-192.png',
   '/icon-512.png'
