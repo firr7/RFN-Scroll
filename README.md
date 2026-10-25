@@ -1,6 +1,6 @@
 # KnowScroll 📱
 
-App per studiare la Rivoluzione Francese e l'Età Napoleonica in formato reel.
+App per studiare in formato reel.
 
 ## File inclusi
 - `index.html` — l'app completa
